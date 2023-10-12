@@ -2,7 +2,7 @@
 #### Physics, Cosmology and Gravitation.
 ![Physics, Cosmology and Gravitation.](https://github.com/jmsdsouzaPhD/jmsdsouzaPhD/blob/main/header_figure.png)
 
-I am a Master in Physics working with Cosmology and Gravitation with emphasis on Gravitational Waves Research.
+PhD in Physics working with Cosmology and Gravitation with emphasis on Gravitational Waves Research.
 
 Skills: Python / C / HTML / Blender
 
