@@ -6,9 +6,6 @@ PhD in Physics working with Cosmology and Gravitation with emphasis on Gravitati
 
 Skills: Python / C / HTML / Blender
 
-- 🔭 I’m currently working on the page "Python Physics Simulations" 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jmsdsouzaPhD) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jmsdsouzaphd.github.io/)  
 
